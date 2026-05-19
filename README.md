@@ -1,3 +1,5 @@
+<img width="1465" height="1073" alt="start" src="https://github.com/user-attachments/assets/84ce5c7d-a600-4a7d-a8d2-7f4fa7260524" />
+
 # Kay´s Snake Quest
 
 **Kay´s Snake Quest** is a retro arcade Snake game inspired by 90s arcade cabinets, neon pixel art, CRT effects, fruit collecting, score chasing, and Spanglish arcade energy.
