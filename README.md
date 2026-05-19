@@ -58,7 +58,7 @@ Current version: development prototype.
 
 Author
 
-Created by Kayci Marval con tutoría del prof. Kelvin Lopez
+Created by Kayci Marval (y su papá) con tutoría del prof. Kelvin Lopez
 
 
 Guarda con:
